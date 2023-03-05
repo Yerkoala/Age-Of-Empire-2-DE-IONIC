@@ -1,0 +1,7 @@
+{
+  "name": "ageofempire-android",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
